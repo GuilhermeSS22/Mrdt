@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" tipe="image/png" href="Raposaicone.png">
+    <title>My randons drawings</title>
+    <link rel="stylesheet" type="text/css" href="ala.css">
+</head>
+<body>
+    <header><h1>meus desenhos (em breve)</h1></header>
+    <section>
+        <h3><strong>Desenho é um hobby meu, embora eu não ache que seja muito bom, ainda sim é algo que eu gosto muito de fazer. Pratico desde que era pequeno, eu acho que seria interessante eu demonstrar meus desenhos aqui, visto que ainda sim faz parte das coisas que eu gosto, por isso eu vou coloca-las aqui:</strong></h3>
+         <article>
+              <h3><p></p></h3>
+         </article>
+
+
+
+
+
+         <footer>
+            Todos os direitos reservados &copy;
+        </footer>
+</body>
+</html>
